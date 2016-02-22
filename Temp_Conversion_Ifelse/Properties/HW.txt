@@ -1,0 +1,3 @@
+Create a program for a simple bankin system by creating a class called Account. Create two different method Deposit()
+and withdraw(). The deposit function adds the amount to the previous despiti and withdraw fucntion should allow to withdraw the 
+the amount by making sure that there us enough amoint to be withdrawn. If a withdraw is possible deposited amount  should be updated. 
